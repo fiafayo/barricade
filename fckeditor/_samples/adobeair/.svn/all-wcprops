@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/125/trunk/aa/fckeditor/_samples/adobeair
+END
+package.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/125/trunk/aa/fckeditor/_samples/adobeair/package.bat
+END
+application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/125/trunk/aa/fckeditor/_samples/adobeair/application.xml
+END
+sample01.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/125/trunk/aa/fckeditor/_samples/adobeair/sample01.html
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/125/trunk/aa/fckeditor/_samples/adobeair/run.bat
+END
+sample01_cert.pfx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/125/trunk/aa/fckeditor/_samples/adobeair/sample01_cert.pfx
+END
